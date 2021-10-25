@@ -1,4 +1,4 @@
-import './App.css';
+// importing all the necessary modules
 import Header from './Components/Header/Header';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
